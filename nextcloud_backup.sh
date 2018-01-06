@@ -2,10 +2,10 @@
 
 # Written to manually backup the nextcloud instance running on my local rpi3 NAS.
 #
-# As pi user has sudo privilages, if this is ran from another distro
-# you may need to invoke sudo privilages.
+# As pi user on raspbian has sudo privilages, if you intend to use this on another
+# distrobution you will need to invoke sudo privilages manually while running script.
 #
-# with help from nextcloud admin manual.
+# Further information from nextcloud admin manual.
 # https://docs.nextcloud.com/server/12/admin_manual/maintenance/backup.html
 
 # Nextcloud auto backup.
