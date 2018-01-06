@@ -11,5 +11,5 @@ https://docs.nextcloud.com/server/12/admin_manual/maintenance/backup.html
 
 Nextcloud auto backup.
  * Backs up nextcloud config, data & theme folders.
- * Backs up nextcloud database
+ * Backs up nextcloud mysql/mariadb database
  * Compresses files and stores them into an tar.xz archive file.
